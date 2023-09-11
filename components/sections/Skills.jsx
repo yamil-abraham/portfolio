@@ -17,7 +17,6 @@ const urlLogos = [
   'https://th.bing.com/th/id/R.4f46be41435ec190eccb1e819229df7b?rik=qLJtJ2oihy9E8w&riu=http%3a%2f%2fjoelcox.io%2fscripts%2flogos%2fmongo-logo.png&ehk=07W0kY%2bKXtJZJn1s35izmffF6NX0jelfmidCaghxea0%3d&risl=&pid=ImgRaw&r=0',
   'https://i.imgur.com/7AnhoXP.png',
   'https://i.imgur.com/CfW1t1x.png',
-  'https://i.imgur.com/sycdKMv.png',
   'https://i.imgur.com/lJLzCdL.png',
   'https://i.imgur.com/Y56Ubdj.png',
   'https://i.imgur.com/T4CPMSM.png',
