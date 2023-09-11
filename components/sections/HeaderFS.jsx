@@ -73,7 +73,7 @@ const HeaderFS = () => {
     <>
       <motion.div variants={variantsUp} initial="hidden" animate={mainControls}>
         <Heading ref={refHeaders} borderRadius="lg" align="center" margin={5}>
-          Hi!, I&apos;m Facundo
+          Hey There!, I&apos;m Yamil
         </Heading>
       </motion.div>
 

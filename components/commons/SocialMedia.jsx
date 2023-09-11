@@ -46,7 +46,7 @@ const SocialMedia = () => {
       </a>
 
       <a
-        href="https://github.com/FacundoInza"
+        href="https://github.com/yamil-abraham"
         className={`${styles.socialContainer} ${styles.containerThree}`}
       >
         <svg
