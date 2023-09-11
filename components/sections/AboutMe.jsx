@@ -108,7 +108,7 @@ const AboutMe = () => {
           >
             <Heading fontSize={{ base: 40, md: 56 }}>About Me</Heading>
             <Heading fontSize={{ base: 20, md: 25 }} color={'#C7A052'}>
-              STUDENTS OF COMPUTER SCIENCE
+              IA ENGINEER
             </Heading>
             <p style={{ marginTop: 8 }}>
               I'm an IT enthusiast 💻 with a serious passion for all things tech! 🚀

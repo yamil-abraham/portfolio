@@ -11,7 +11,6 @@ const urlLogos = [
   'https://i.imgur.com/bSj9fHb.png',
   'https://i.imgur.com/oHdY6qD.png',
   'https://i.imgur.com/TOl8Ph2.png',
-  'https://i.imgur.com/trSDXtD.png',
   'https://i.imgur.com/soBPM6v.png',
   'https://i.imgur.com/pnUNvYk.png',
   'https://i.imgur.com/Sge2RJo.png',
