@@ -12,7 +12,7 @@ const SocialMedia = () => {
         className={`${styles.socialContainer} ${styles.containerOne}`}
       >
         <svg
-          className={`${styles.socialSvg} ${styles.twitterSvg}`}
+          className={`${styles.socialSvg} ${styles.instagramSvg}`}
           width="25"
           height="25"
           viewBox="0 0 127 103"
@@ -27,7 +27,7 @@ const SocialMedia = () => {
       </a>
 
       <a
-        href="https://www.linkedin.com/feed/"
+        href="https://www.linkedin.com/in/yamilabraham/"
         className={`${styles.socialContainer} ${styles.containerTwo}`}
       >
         <svg
