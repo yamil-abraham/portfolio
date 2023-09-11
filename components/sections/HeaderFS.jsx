@@ -126,8 +126,45 @@ const HeaderFS = () => {
                 fontWeight: 450,
               }}
             >
-              {'//'} you can also see it on my Github page
+              {'//'} Interested in getting to know me more?
             </Text>
+            <Box display={'flex'} padding={2}>
+              <Text
+                fontSize={{ base: '10px', xl: '16px' }}
+                style={{
+                  color: '#4D5BCE',
+                  fontFamily: "'Fira Code', monospace",
+                  fontWeight: 500,
+                  paddingRight: 7,
+                }}
+              >
+                {'const '}
+              </Text>
+              <Text
+                fontSize={{ base: '10px', xl: '16px' }}
+                style={{
+                  color: '#43D9AD',
+                  fontFamily: "'Fira Code', monospace",
+                  fontWeight: 500,
+                  paddingRight: 7,
+                }}
+              >
+                {' linkedinProfile ='}
+              </Text>
+              <Link
+                fontSize={{ base: '10px', xl: '16px' }}
+                href="https://www.linkedin.com/in/yamilabraham/"
+                isExternal
+                style={{
+                  color: '#E99287',
+                  fontFamily: "'Fira Code', monospace",
+                  fontWeight: 500,
+                }}
+              >
+                “https://www.linkedin.com/in/yamilabraham/”
+                <ExternalLinkIcon mx="2px" />
+              </Link>
+              </Box>
             <Box display={'flex'} padding={2}>
               <Text
                 fontSize={{ base: '10px', xl: '16px' }}
