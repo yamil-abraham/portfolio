@@ -3,14 +3,23 @@ import { motion, useAnimation, useInView } from 'framer-motion'
 import { Grid, Heading, Image } from '@chakra-ui/react'
 
 const urlLogos = [
+  'https://i.imgur.com/IMX3AY9.png',
+  'https://i.imgur.com/4ZiM9qu.png',
+  'https://i.imgur.com/XEZOFeg.jpg',
+  'https://i.imgur.com/ekFiDdu.png',
+  'https://i.imgur.com/earnWwv.png',
+  'https://i.imgur.com/bSj9fHb.png',
+  'https://i.imgur.com/oHdY6qD.png',
+  'https://i.imgur.com/TOl8Ph2.png',
   'https://i.imgur.com/trSDXtD.png',
-  'https://i.imgur.com/engnyJi.png',
-  'https://i.imgur.com/O71yz0S.png',
+  'https://i.imgur.com/soBPM6v.png',
+  'https://i.imgur.com/pnUNvYk.png',
   'https://i.imgur.com/Sge2RJo.png',
   'https://th.bing.com/th/id/R.4f46be41435ec190eccb1e819229df7b?rik=qLJtJ2oihy9E8w&riu=http%3a%2f%2fjoelcox.io%2fscripts%2flogos%2fmongo-logo.png&ehk=07W0kY%2bKXtJZJn1s35izmffF6NX0jelfmidCaghxea0%3d&risl=&pid=ImgRaw&r=0',
+  'https://i.imgur.com/7AnhoXP.png',
+  'https://i.imgur.com/CfW1t1x.png',
   'https://i.imgur.com/sycdKMv.png',
   'https://i.imgur.com/lJLzCdL.png',
-  'https://i.imgur.com/pY2WKtR.png',
 ]
 
 const Skills = () => {
