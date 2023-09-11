@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <Box as="footer" bg="gray.800" color="white" padding={10}>
       <Flex align="center" justify="center">
-        <Text ml={2}>&copy; Copyright Facundo Inza</Text>
+        <Text ml={2}>&copy; Copyright Yamil Abraham</Text>
       </Flex>
     </Box>
   )

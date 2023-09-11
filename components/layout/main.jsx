@@ -9,7 +9,7 @@ const Main = ({ children, router }) => {
     <Box as="main" overflowX={'hidden'}>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Facundo Inza - Homepage</title>
+        <title>Yamil Abraham - Homepage</title>
       </Head>
 
       <Navbar path={router.asPath} />

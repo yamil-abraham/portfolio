@@ -165,7 +165,7 @@ const HeaderFS = () => {
               </Text>
               <Link
                 fontSize={{ base: '10px', xl: '16px' }}
-                href="https://github.com/FacundoInza"
+                href="https://github.com/yamil-abraham"
                 isExternal
                 style={{
                   color: '#E99287',
@@ -173,7 +173,7 @@ const HeaderFS = () => {
                   fontWeight: 500,
                 }}
               >
-                “https://github.com/FacundoInza”
+                “https://github.com/yamil-abraham”
                 <ExternalLinkIcon mx="2px" />
               </Link>
             </Box>
