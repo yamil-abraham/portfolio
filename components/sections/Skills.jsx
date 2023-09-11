@@ -20,6 +20,10 @@ const urlLogos = [
   'https://i.imgur.com/CfW1t1x.png',
   'https://i.imgur.com/sycdKMv.png',
   'https://i.imgur.com/lJLzCdL.png',
+  'https://i.imgur.com/Y56Ubdj.png',
+  'https://i.imgur.com/T4CPMSM.png',
+  'https://i.imgur.com/ms3on3U.png',
+  'https://i.imgur.com/UM56l7T.png',
 ]
 
 const Skills = () => {
