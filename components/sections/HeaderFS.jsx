@@ -100,7 +100,7 @@ const HeaderFS = () => {
                 color: 'transparent',
               }}
             >
-              FULL STACK
+              IA ENGINEER
             </Heading>
           </motion.div>
 
