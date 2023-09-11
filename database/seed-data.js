@@ -1,13 +1,13 @@
 export const seedData = {
   projects: [
     {
-      name: 'Open Jira',
-      image: 'https://i.imgur.com/TWCsVyC.png',
+      name: 'Anomaly Detection using Machine Learning',
+      image: 'https://i.imgur.com/2MfiTKy.png',
       urlDeploy: '',
       videoDemo:
-        'https://www.linkedin.com/feed/update/urn:li:activity:7076393095436603392/',
+        'https://www.linkedin.com/in/yamilabraham/details/projects/26059522/multiple-media-viewer/?profileId=ACoAAClbreMBQ9ytIZv7-iZy1iTarFTtf-ikgJo&treasuryMediaId=1635540309438',
       description:
-        'Desarrolle un clon de la herramienta Jira, centrado en la gestión ágil de proyectos. Permitirá la creación y asignación de tareas, seguimiento del progreso, administración de proyectos, tableros Kanban y Scrum, seguimiento de problemas, generación de informes y personalización. ',
+        'I collaborated with a team of 12 data science students. The project consisted of creating an intelligent model capable of detecting anomalies in automotive machines by detecting variables such as vibrations and accelerations in the X, Y, and Z axes and temperatures.',
       tecnologies: [
         'Next',
         'Typescript',
@@ -17,7 +17,7 @@ export const seedData = {
         'Context',
       ],
       types: ['Web'],
-      company: 'Own Project',
+      company: 'Webee <> Purdue University',
     },
     {
       name: 'Pokemon App',
