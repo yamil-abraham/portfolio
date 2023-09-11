@@ -23,6 +23,7 @@ const urlLogos = [
   'https://i.imgur.com/T4CPMSM.png',
   'https://i.imgur.com/ms3on3U.png',
   'https://i.imgur.com/UM56l7T.png',
+  'https://i.imgur.com/htePwbh.jpg',
 ]
 
 const Skills = () => {
