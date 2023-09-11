@@ -87,7 +87,7 @@ const AboutMe = () => {
         >
           <Box
             backgroundColor="rgba(0, 0, 0, 0.5)"
-            backgroundImage="url(https://i.imgur.com/Z7IUGBy.png)"
+            backgroundImage="url(https://i.imgur.com/bzjYP2p.jpg)"
             backgroundSize="cover"
             backgroundPosition="center"
             width={'330px'}
@@ -111,23 +111,20 @@ const AboutMe = () => {
               STUDENTS OF COMPUTER SCIENCE
             </Heading>
             <p style={{ marginTop: 8 }}>
-              Hello! I am a computer engineering student passionate about the
-              world of technology and programming. I am currently in active job
-              search.
+              I'm an IT enthusiast 💻 with a serious passion for all things tech! 🚀
+              I've built my career around the idea that technology can truly make the world a better place, and I'm here to prove it. 😎
+
             </p>
             <p style={{ marginTop: 8 }}>
-              I have studied computer engineering for 3 years, but due to my
-              upcoming move to Valencia, I am completely focused on getting a
-              job in the IT world and continuing to develop as a professional. I
-              am enthusiastic about learning new technologies and keeping up
-              with the latest trends in the field of computing.
+              I thrive on diving headfirst into challenging tech puzzles, and my knack for finding innovative solutions is what keeps me going. 
+              🧩 Whether it's collaborating with diverse teams or tinkering with the latest gadgets, I'm all about boosting efficiency and making things happen. 🤓
             </p>
             <p style={{ marginTop: 8 }}>
-              I consider myself a proactive person, passionate about learning
-              and innovation, and I am sure that I can contribute a lot to any
-              company that gives me the opportunity. I am excited for what the
-              future holds for me and I look forward to contributing my skills
-              to the world of technology!
+              Staying on top of the ever-evolving tech landscape is my jam, and I firmly believe that staying current with
+              the latest trends is vital in our mission to drive positive change in society. 🌟
+              My entrepreneurial spirit is the engine behind a constant flow of new ideas,
+              and I'm committed to harnessing technology's incredible potential to not only solve problems but also create opportunities for a brighter, more connected world. 🌈💡
+              So, let's connect and explore the endless possibilities that technology offers! 🌐🤝
             </p>
             <Box marginTop={5}>
               <ButtonGroup>
