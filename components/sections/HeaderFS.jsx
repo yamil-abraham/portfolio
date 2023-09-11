@@ -109,18 +109,6 @@ const HeaderFS = () => {
             initial="hidden"
             animate={mainControls}
           >
-            <Heading
-              as="h2"
-              fontSize={{ base: '60px', xl: '120px' }}
-              sx={{
-                background: gradientBgH2,
-                backgroundClip: 'text',
-                WebkitBackgroundClip: 'text',
-                color: 'transparent',
-              }}
-            >
-              DEVELOPER
-            </Heading>
           </motion.div>
           <motion.div
             variants={variantsDown}
