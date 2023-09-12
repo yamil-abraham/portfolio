@@ -87,7 +87,7 @@ const AboutMe = () => {
         >
           <Box
             backgroundColor="rgba(0, 0, 0, 0.5)"
-            backgroundImage="url(https://i.imgur.com/1XnLkCl.png)"
+            backgroundImage="url(https://i.imgur.com/vQRkNFE.png)"
             backgroundSize="cover"
             backgroundPosition="center"
             width={'330px'}
