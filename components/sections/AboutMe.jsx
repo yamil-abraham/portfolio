@@ -17,7 +17,7 @@ const AboutMe = () => {
   })
 
   const handleDownload = () => {
-    window.open('https://docdro.id/dc9JNZb', '_blank')
+    window.open('https://docdro.id/ESOZHR2', '_blank')
   }
   const containerVariants = {
     hidden: {
