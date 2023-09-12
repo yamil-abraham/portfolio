@@ -187,7 +187,7 @@ const Projects = () => {
                         color={'#C7A052'}
                         onClick={() => handleClick(project.videoDemo)}
                       >
-                        Go to Demo
+                        More
                       </Button>
                     )}
                     {project?.urlDeploy && (

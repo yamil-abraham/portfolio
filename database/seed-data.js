@@ -103,7 +103,7 @@ export const seedData = {
       image:
         'https://i.imgur.com/vehISuI.jpg',
       urlDeploy: '',
-      videoDemo:'',
+      videoDemo:'https://www.linkedin.com/in/yamilabraham/details/projects/1635540307680/single-media-viewer/?profileId=ACoAAClbreMBQ9ytIZv7-iZy1iTarFTtf-ikgJo',
       description:
         'Led computer vision project using NVIDIA Jetson Nano development kit to detect crushing events in piglets during the first 3 months of suckling through image recognition processing. The purpose of this development was for a pig producer client as I detected a loss of thousands of dollars per year in the death of piglets.',
       tecnologies: [
