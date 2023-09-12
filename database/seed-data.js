@@ -126,7 +126,7 @@ export const seedData = {
     {
       name: 'VmT1',
       image:
-        'https://www.linkedin.com/feed/update/urn:li:activity:6677363484147167232/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6677363484147167232%29',
+        'https://i.imgur.com/uzfalUs.png',
       urlDeploy: '',
       videoDemo:
         'https://docdro.id/SvzkaLG',
