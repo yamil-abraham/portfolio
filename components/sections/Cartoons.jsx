@@ -78,7 +78,7 @@ const Cartoons = () => {
         <Image
           zIndex={1}
           alt="image"
-          src="https://i.imgur.com/BTeyeZ5.png"
+          src="https://i.imgur.com/r6m54Ik.png"
           marginBottom={5}
           minWidth={'300px'}
         />
