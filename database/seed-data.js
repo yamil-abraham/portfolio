@@ -129,7 +129,7 @@ export const seedData = {
         'https://i.imgur.com/uzfalUs.png',
       urlDeploy: '',
       videoDemo:
-        'https://docdro.id/SvzkaLG',
+        'https://drive.google.com/file/d/1EgvIE0Sn1eITVR-Sy4puzWk-xQXDtNXQ/view?usp=sharing',
       description:
         '✅ Conoce más sobre 🎚 VmT1. 😷 🤲🏻 Podes medir tu temperatura corporal evitando el contacto fisico y sin tener una persona a dispocisión en el sensado 👨🏻‍💼↔️👩🏼‍💼.',
       tecnologies: [
